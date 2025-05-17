@@ -29,10 +29,10 @@
 ###
 
 <div align="left">
-  <a href="[YOUR_YOUTUBE_LINK](https://www.youtube.com/@TechLeaders-i9r)" target="_blank">
+  <a href="https://www.youtube.com/@TechLeaders-i9r" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube"  />
   </a>
-  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/moemen25/)" target="_blank">
+  <a href="https://www.linkedin.com/in/moemen25/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"  />
   </a>
 </div>
