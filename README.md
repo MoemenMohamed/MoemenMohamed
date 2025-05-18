@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Moemen Mohamed and I'm a Mechatonics Engineer interested in software development</h2>
+<h2 align="left">Hi 👋! My name is Moemen Mohamed and I'm a Mechatronics Engineer interested in software development</h2>
 
 ###
 
