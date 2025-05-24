@@ -24,17 +24,7 @@
 
 - 🎓 Master’s in Thermal Management of Li-ion Batteries  
 
-###
 
-### 📊 GitHub Stats
-
-![Moemen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moemen25&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moemen25&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=moemen25&theme=tokyonight&border_radius=5)
-
-###
 
 ### 🧰 My Tech Stack
 
