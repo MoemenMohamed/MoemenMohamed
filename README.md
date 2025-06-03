@@ -21,7 +21,7 @@
 
 ### 🏅 HackerRank Certifications & Badges
 
-- [Problem Solving (Basic)](https://www.hackerrank.com/certificates/e097d533202c)
+- [Python (Basic)](https://www.hackerrank.com/certificates/e097d533202c)
   
 <div>
   <a href="https://www.hackerrank.com/profile/memmoh76" target="_blank">
